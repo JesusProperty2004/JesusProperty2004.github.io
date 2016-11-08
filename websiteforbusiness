@@ -1,1 +1,24 @@
+<!doctype>
+<html>
 
+  <head>
+    <title>My youtube page</title>
+
+  <style>
+    body {
+      background-color: #6DFFFD;
+      font-family: Helvetica, Arial, sans-serif;
+      margin: 2;
+      font-size: xx-large
+    }
+  </style>
+</head>
+<body>
+  Let's play Let's eat started in Mooresville by Katie Modlin. <br>
+  As a kid she played video games or watch videos on youtube while <br>
+  she ate. She wanted to start this in to a business.<br><br>
+  
+  You can contact Katie by these resources-<br>
+  123-456-7890<br>
+  letseatletsplay@gmail.com
+</body>
